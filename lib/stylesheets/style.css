@@ -1,0 +1,125 @@
+.navbar-nav{
+    gap:40px !important;
+    font-weight:600 !important;
+    color:#475c46 !important;
+}
+.hero-cont{
+    margin-top:140px;
+}
+.hero-text h1{
+    font-size: 4em;
+    font-weight:700;
+    margin-bottom: 30px;
+    color:#085c11
+}
+.hero text p{
+    font-size: 1em;
+    font-weight:500;
+    margin-bottom: 80px;
+}
+.hero-img img{
+    max-width:90%;
+}
+.hero-now{
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    background-color: #085c11;
+    color:#ffff;
+    border-radius: 10px;
+    border: 1px solid #085c11 ;
+}
+.hero-rent{
+    padding: 10px;
+    text-decoration: none;
+    color: #085c11;
+    background-color:#ffff;
+    border-radius: 10px;
+    border:1px solid black; 
+    margin-left: 10px;
+}
+.rent-now{
+    margin-top: 50px;
+}
+.hero-text1 h2{
+    font: weight 400px; 
+    font-size: 2.9em;
+    font-style: italic;
+    color:#085c11;
+    margin-bottom: 30px;
+}
+.hero-image img{
+margin-top: 70px;
+}
+.hero-text1 .hero-continue{
+    padding: 10px 30px 10px 30px;
+    text-decoration: none;
+    background-color: #085c11;
+    color:#ffff;
+    border-radius: 20px;
+    border: 1px solid #085c11 ;
+    
+}
+.hero-text1 .hero-word{
+margin-bottom: 30px;
+
+}
+.ser{
+    font-size: 70px;
+    font-style: italic;
+    font-weight: 400;
+    color: #085c11;
+}
+.card-body{
+    background-color: #085c11;
+    margin-bottom: 70px;
+    width: 300px !important;
+    height: 250px !important;
+    margin-top: 40px !important;
+    border-radius: 30px;
+}
+.card-body img{
+    margin-top: 20px;
+}
+.card-body p{
+    margin-top: 5px;
+}
+.card-body h1{
+    margin-top: 10px;
+}
+.card-photo{
+    border-radius: 30px 100px 30px 100px;
+    border:5px solid #085c11;
+    width: 350px !important;
+    height: 300px !important;
+    margin-top: 40px !important;
+    margin-bottom: 100px;
+}
+.card-photo img{
+    margin-top: 20px;
+}
+.link li{
+    list-style-type: none;
+    padding: 5px;
+    font-size: 15px;
+}
+.link a{
+    text-decoration: none;
+    color: #085c11;
+    font-size: 20px;
+    font-weight: 700;
+}
+.footer-photo p{
+    padding-top: 30px;
+}
+.footer-photo{
+    margin-bottom: 80px;
+}
+.fotter1 i{
+    padding: 5px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 100px;
+}
+.footer1 .fotter1{
+    color: #085c11;
+}
